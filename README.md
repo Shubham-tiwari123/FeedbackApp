@@ -16,3 +16,10 @@ react, mongodb, redux and hosted on Heroku
       
     * **git push heroku master:** To push the changes to 
     heroku repo
+
+
+### Key Points:
+
+1. Application is deployed on **Heroku**
+2. Google auth is implemented for user login. 
+   [PassportJs](http://www.passportjs.org) library is used for this. 
